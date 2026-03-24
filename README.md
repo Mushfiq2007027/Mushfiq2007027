@@ -62,7 +62,7 @@ I am particularly interested in:
 - AI Engineer roles  
 - Software Engineering positions  
 
-## 📫 Contact
+## Contact
 
 Email: mushfiq2000cpt@gmail.com  
 GitHub: https://github.com/Mushfiq2007027  
@@ -70,4 +70,4 @@ LinkedIn: https://www.linkedin.com/in/md-mushfiqur-rahman-244b90278/
 
 ---
 
-⭐ Always interested in research collaborations and building impactful AI systems.
+
