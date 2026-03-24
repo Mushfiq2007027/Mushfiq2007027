@@ -2,7 +2,7 @@
 
 I am a final-year Computer Science and Engineering student at KUET with a strong interest in Deep Learning and data-driven research. I am particularly motivated to apply AI techniques to real-world problems involving multimodal data, computer vision, and intelligent automation.
 
-## 🔬 Research & Technical Experience
+## Research & Technical Experience
 
 Through my academic projects and undergraduate thesis, I have developed practical experience in:
 
@@ -12,7 +12,7 @@ Through my academic projects and undergraduate thesis, I have developed practica
 - Computer Vision applications  
 - Full-stack software development  
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
@@ -39,13 +39,13 @@ Through my academic projects and undergraduate thesis, I have developed practica
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
 
-## 🚀 GitHub Stats (Live Data)
+## Most Used Languages
 
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiq2007027&layout=compact)
 
-## 📂 Featured Projects
+## Featured Projects
 Here are some of my key projects:
 
 - Transformer-Based Audio Speech-to-Text Conversion System  
@@ -54,7 +54,7 @@ Here are some of my key projects:
 - MERN Courseware Platform  
 - Android Medicine Ordering Application  
 
-## 🎯 Career Interests
+## Career Interests
 
 I am particularly interested in:
 - Research Assistant (RA) positions  
