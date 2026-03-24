@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Md Mushfiqur Rahman
 
-I am a final-year Computer Science and Engineering student at KUET with a strong interest in Deep Learning and data-driven research. I am particularly motivated to apply AI techniques to real-world problems involving multimodal data, computer vision, and intelligent automation.
+I am a final-year Computer Science and Engineering student at KUET with a strong interest in deep Learning and data-driven research. I am particularly motivated to apply AI techniques to real-world problems involving multimodal data, computer vision, and intelligent automation.
 
 ## Research & Technical Experience
 
