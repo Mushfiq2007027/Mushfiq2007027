@@ -41,7 +41,7 @@ Through my academic projects and undergraduate thesis, I have developed practica
 
 ## 🚀 GitHub Stats (Live Data)
 
-## ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mushfiq2007027&show_icons=true&theme=default)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiq2007027&layout=compact)
 
