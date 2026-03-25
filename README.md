@@ -54,13 +54,6 @@ Here are some of my key projects:
 - MERN Courseware Platform  
 - Android Medicine Ordering Application  
 
-## Career Interests
-
-I am particularly interested in:
-- Research Assistant (RA) positions  
-- Machine Learning Engineer roles  
-- AI Engineer roles  
-- Software Engineering positions  
 
 ## Contact
 
