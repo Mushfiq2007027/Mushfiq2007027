@@ -61,7 +61,7 @@ interest in AI for healthcare and medical imaging.
 | Food Park — Restaurant E-Commerce Platform | Laravel · Full-Stack |
 | Pokemon Battle Arena — AI Strategy Game | AI Algorithms · Python |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiq2007027&layout=compact)
+
 
 ## Contact
 
