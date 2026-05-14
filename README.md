@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Md Mushfiqur Rahman
+# Hi there, I'm Md Mushfiqur Rahman
 
 Software engineer and AI/ML practitioner passionate about building
 end-to-end systems — and making them smarter through intelligent integration.
@@ -12,10 +12,10 @@ interest in AI for healthcare and medical imaging.
 
 ## What I Work On
 
-- 🔧 **Software Engineering** — Full-stack web (MERN, Laravel), Android, REST APIs, design patterns
-- 🧠 **AI/ML & Research** — Deep learning, computer vision, multimodal fusion, NLP, model evaluation
-- ⚙️ **Systems & Hardware** — FPGA processor design (Verilog), custom ISA, OpenGL graphics
-- 📊 **Data & Analysis** — Feature engineering, preprocessing, statistical analysis
+- **Software Engineering** — Full-stack web (MERN, Laravel), Android, REST APIs, design patterns
+- **AI/ML & Research** — Deep learning, computer vision, multimodal fusion, NLP, model evaluation
+- **Systems & Hardware** — FPGA processor design (Verilog), custom ISA, OpenGL graphics
+- **Data & Analysis** — Feature engineering, preprocessing, statistical analysis
 
 ## Tech Stack
 
@@ -52,18 +52,18 @@ interest in AI for healthcare and medical imaging.
 
 | Project | Domain |
 |---|---|
-| 🧠 Multimodal Liver Disease Classification (Thesis) | Healthcare AI · Deep Learning |
-| 🗣️ Transformer-Based Speech-to-Text System | NLP · ASR · PyTorch |
-| 🌆 3D Modern City Simulation | OpenGL · C++ · Graphics |
-| ⚙️ 8-bit Harvard CPU on FPGA | Verilog · Systems Design |
-| 🌐 Courseware — MERN Academic Platform | Full-Stack Web · MERN |
-| 💊 MediQuick — Medicine Ordering App | Android · Java |
-| 🍽️ Food Park — Restaurant E-Commerce Platform | Laravel · Full-Stack |
-| 🎮 Pokemon Battle Arena — AI Strategy Game | AI Algorithms · Python |
+| Multimodal Liver Disease Classification (Thesis) | Healthcare AI · Deep Learning |
+| Transformer-Based Speech-to-Text System | NLP · ASR · PyTorch |
+| 3D Modern City Simulation | OpenGL · C++ · Graphics |
+| 8-bit Harvard CPU on FPGA | Verilog · Systems Design |
+| Courseware — MERN Academic Platform | Full-Stack Web · MERN |
+| MediQuick — Medicine Ordering App | Android · Java |
+| Food Park — Restaurant E-Commerce Platform | Laravel · Full-Stack |
+| Pokemon Battle Arena — AI Strategy Game | AI Algorithms · Python |
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mushfiq2007027&layout=compact)
 
-## Let's Connect
+## Contact
 
-📧 [mushfiq2000cpt@gmail.com](mailto:mushfiq2000cpt@gmail.com)
-🔗 [linkedin.com/in/md-mushfiqur-rahman-244b90278](https://www.linkedin.com/in/md-mushfiqur-rahman-244b90278/)
+Email: [mushfiq2000cpt@gmail.com](mailto:mushfiq2000cpt@gmail.com)
+LinkedIn: [linkedin.com/in/md-mushfiqur-rahman-244b90278](https://www.linkedin.com/in/md-mushfiqur-rahman-244b90278/)
